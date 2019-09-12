@@ -1,3 +1,3 @@
 # Progress-Lite
 
-## It's Lighter than Air
+A progress bar that's lighter than air!

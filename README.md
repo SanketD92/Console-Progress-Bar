@@ -1,3 +1,3 @@
-## Progress-Lite
+# Progress-Lite
 
-# It's Lighter than Air
+## It's Lighter than Air
